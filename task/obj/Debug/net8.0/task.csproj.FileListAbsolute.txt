@@ -1,0 +1,15 @@
+D:\GameDev\C#\final\git\task\bin\Debug\net8.0\task.exe
+D:\GameDev\C#\final\git\task\bin\Debug\net8.0\task.deps.json
+D:\GameDev\C#\final\git\task\bin\Debug\net8.0\task.runtimeconfig.json
+D:\GameDev\C#\final\git\task\bin\Debug\net8.0\task.dll
+D:\GameDev\C#\final\git\task\bin\Debug\net8.0\task.pdb
+D:\GameDev\C#\final\git\task\obj\Debug\net8.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\GameDev\C#\final\git\task\obj\Debug\net8.0\task.AssemblyInfoInputs.cache
+D:\GameDev\C#\final\git\task\obj\Debug\net8.0\task.AssemblyInfo.cs
+D:\GameDev\C#\final\git\task\obj\Debug\net8.0\task.csproj.CoreCompileInputs.cache
+D:\GameDev\C#\final\git\task\obj\Debug\net8.0\task.sourcelink.json
+D:\GameDev\C#\final\git\task\obj\Debug\net8.0\task.dll
+D:\GameDev\C#\final\git\task\obj\Debug\net8.0\refint\task.dll
+D:\GameDev\C#\final\git\task\obj\Debug\net8.0\task.pdb
+D:\GameDev\C#\final\git\task\obj\Debug\net8.0\task.genruntimeconfig.cache
+D:\GameDev\C#\final\git\task\obj\Debug\net8.0\ref\task.dll
